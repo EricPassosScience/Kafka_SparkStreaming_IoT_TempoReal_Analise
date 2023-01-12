@@ -12,7 +12,7 @@ Isso ajudaria no monitoramento da operação e ainda permitiria criar um histór
 
 O nosso trabalho será entregar essa solução.
 
-## Arquitetura da Solução
+# Arquitetura da Solução
 ### Fontes de dados de Sensores IoT:
 Dados de medição de temperatura de máquinas industriais em tempo real. Criaremos um simulador em Python para gerar os dados;
 
