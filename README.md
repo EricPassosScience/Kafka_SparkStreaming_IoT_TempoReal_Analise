@@ -16,7 +16,7 @@ O nosso trabalho será entregar essa solução.
 ### Fontes de dados de Sensores IoT:
 Dados de medição de temperatura de máquinas industriais em tempo real. Criaremos um simulador em Python para gerar os dados;
 
-### Apache Kafkca (Processamento de Streaming de Dados):
+### Apache Kafka (Processamento de Streaming de Dados):
 Extração, organização, processamento, segurança e persistência dos dados gerados em tempo real. Os dados devem ficar disponíveis independente da solução de Analytics.
 
 Link para dowload e documentação -> https://kafka.apache.org
